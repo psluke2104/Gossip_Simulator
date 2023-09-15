@@ -1,12 +1,6 @@
 # DOSP Project 2: Gossip Simulation
 ****
-## Group Details
-<p><strong>Name: [ Pradyumna_Pasumarty : Sai Ram Varma_Budharaju ]</strong></p>
-<strong>Members</strong>
-<ol>
-    <li>Sai Ram Varma Budharaju (UFID: 3337-4276 | <a>sbudharaju@ufl.edu</a>)</li>
-    <li>Pradyumna Pasumarty (UFID: 6907-9707 | <a>ppasumarty@ufl.edu</a>)</li>
-</ol>
+
 
 ****
 
